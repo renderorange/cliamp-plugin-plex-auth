@@ -174,3 +174,7 @@ The plugin runs against a stubbed cliamp, so the tests need no cliamp, no networ
 ```bash
 lua test/plex_auth_test.lua
 ```
+
+## License
+
+MIT licensed, copyright 2026 Blaine Motsinger. The full text is in [LICENSE](LICENSE).
